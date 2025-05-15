@@ -60,7 +60,7 @@ def contflow_style():
             padding: 10px 24px;
         }
         .stRadio > div {
-            background-color: #E3F2FD;
+            background-color: #1A237E;
             padding: 10px;
             border-radius: 10px;
         }
