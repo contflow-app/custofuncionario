@@ -74,8 +74,6 @@ def contflow_style():
 
 contflow_style()
 
-st.set_page_config(page_title="Custo de Funcionário - ContFlow", layout="centered")
-
 # Logotipo
 st.image("https://contflow.com.br/wp-content/uploads/2023/02/logo-contflow-h-azul.png", width=250)
 
