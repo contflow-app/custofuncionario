@@ -46,7 +46,7 @@ def contflow_style():
     st.markdown("""
         <style>
         body {
-            background-color: #f3f6fa;
+            background-color: #1A237E;
         }
         .main {
             background-color: #ffffff;
@@ -75,7 +75,7 @@ def contflow_style():
 contflow_style()
 
 # Logotipo
-st.image("https://contflow.com.br/wp-content/uploads/2023/02/logo-contflow-h-azul.png", width=250)
+st.image("logo-contflow-h-azul", width=250)
 
 st.title("💼 Calculadora de Custo de Funcionário")
 
