@@ -75,7 +75,7 @@ def contflow_style():
 contflow_style()
 
 # Logotipo
-st.image("logo-contflow-h-azul", width=250)
+st.image("logo-contflow-h-azul.png", width=250)
 
 st.title("💼 Calculadora de Custo de Funcionário")
 
