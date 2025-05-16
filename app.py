@@ -46,7 +46,7 @@ def contflow_style():
     st.markdown("""
         <style>
         body {
-            background-color: #1A237E;
+            background-color: #ffffff;
         }
         .main {
             background-color: #ffffff;
