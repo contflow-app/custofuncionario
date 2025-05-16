@@ -46,7 +46,7 @@ def contflow_style():
     st.markdown("""
         <style>
         body {
-            background-color: #ffffff;
+            background-color: #1A237E;
         }
         .main {
             background-color: #ffffff;
@@ -60,7 +60,7 @@ def contflow_style():
             padding: 10px 24px;
         }
         .stRadio > div {
-            background-color: #1A237E;
+            background-color: #ffffff;
             padding: 10px;
             border-radius: 10px;
         }
